@@ -17,8 +17,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/SamarthGanorkar#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SamarthGanorkar#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/SamarthGanorkar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/SamarthGanorkar-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samarth-ganorkar-5549a8203/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samarth-ganorkar-5549a8203/-dark-mode-only)
 &nbsp;&nbsp;
 
 
