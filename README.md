@@ -36,7 +36,13 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Metasploit" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />][webdevplaylist]
-
+[<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Socket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 
 <br />
