@@ -45,6 +45,4 @@
 [<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 
-<br />
-
 
