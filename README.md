@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">An Ethical Hacker, ML engineer, and a developer from India</h3>
+<h3 align="center">A ML engineer, an ethical hacking hobbyist and a developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiletruefalse&label=Profile%20views&color=0e75b6&style=flat" alt="whiletruefalse" /> </p>
 
 - 🔭 I’m currently working on **WINGMAN**
 
-- 🌱 I’m currently learning **Ethical Hacking (CEH) and Malware analysis**
+- 🌱 I’m currently learning **to replace Complex use-cases with best AI solutions**
 
-- 👯 I’m looking to collaborate on **LLM projects**
+- 👯 I’m love to collaborate on **LLM projects**
 
 - 👨‍💻 All of my projects are available at [https://terminal-blond.vercel.app](https://terminal-blond.vercel.app)
 
-- 💬 Ask me about **Cybersecurity & careers**
+- 💬 Ask me about **LLM's, ANN & AI bubble**
 
 - 📫 How to reach me **samarthganorkar@gmail.com**
 
