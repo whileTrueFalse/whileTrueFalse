@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGZhHc9soE/gqIUEd2JN27x0hGJpRQvLw/view?utm_content=DAGZhHc9soE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cadbd5806](https://www.canva.com/design/DAGZhHc9soE/gqIUEd2JN27x0hGJpRQvLw/view?utm_content=DAGZhHc9soE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cadbd5806)
 
-- ⚡ Fun fact **I hack my own machine, when bored!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samarthganorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarthganorkar" height="30" width="40" /></a>
