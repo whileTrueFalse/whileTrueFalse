@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">A ML engineer, an ethical hacking hobbyist and a developera</h3>
+<h3 align="center">A ML engineer, an ethical hacking hobbyist and a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiletruefalse&label=Profile%20views&color=0e75b6&style=flat" alt="whiletruefalse" /> </p>
 
