@@ -9,7 +9,7 @@
 
 - 👯 I’m love to collaborate on **LLM projects**
 
-- 👨‍💻 All of my projects are available at [https://terminal-blond.vercel.app](https://terminal-blond.vercel.app)
+- 👨‍💻 All of my projects are available at [https://samarth-pfolio.vercel.app/]((https://samarth-pfolio.vercel.app/))
 
 - 💬 Ask me about **LLM's, ANN & AI bubble**
 
