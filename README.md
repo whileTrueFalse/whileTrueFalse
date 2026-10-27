@@ -1,31 +1,46 @@
-<h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">A ML engineer, an ethical hacking hobbyist and a developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Samarth Ganorkar, AI engineer. The sentence 'I build agentic systems with LLMs.' is shown split into tokens, next to an attention heatmap over those tokens.">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whiletruefalse&label=Profile%20views&color=0e75b6&style=flat" alt="whiletruefalse" /> </p>
+### Right now
 
-- 🔭 I’m currently working on **Agentic AI**
+I'm building agentic AI: systems that plan, call tools, and recover when a step goes wrong. Most of my time goes into figuring out where an AI solution genuinely beats the existing workflow, and where it doesn't.
 
-- 🌱 I’m currently learning **to replace Complex use-cases with best AI solutions**
+If you're working on something with LLMs, I'd like to hear about it. I'm also happy to talk about neural nets, agents, or whether we're in an AI bubble.
 
-- 👯 I’m love to collaborate on **LLM projects**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+  <img src="./assets/projects-light.svg" width="100%" alt="A map of my projects grouped into three clusters: Health ML, Computer vision, and Generative and voice. Agentic systems is marked as current work.">
+</picture>
 
-- 👨‍💻 All of my projects are available at ((https://samarth-pfolio.vercel.app/))
+| Project | What it does |
+| --- | --- |
+| [voice-bot](https://github.com/whileTrueFalse/voice-bot) | A digital clone of me you can talk to |
+| [MediDOC](https://github.com/whileTrueFalse/MediDOC) | ML models for medical diagnosis |
+| [DiabetesDOC](https://github.com/whileTrueFalse/DiabetesDOC) | Predicts diabetes risk from patient data |
+| [Image-Processing-on-Brain-Tumor-imgs](https://github.com/whileTrueFalse/Image-Processing-on-Brain-Tumor-imgs) | Image processing on brain tumor scans |
+| [Ambulance_Detection_usingCV](https://github.com/whileTrueFalse/Ambulance_Detection_usingCV) | Spots ambulances in traffic footage |
+| [TTV-v1.1](https://github.com/whileTrueFalse/TTV-v1.1) | Text-to-video experiments |
 
-- 💬 Ask me about **LLM's, ANN & AI bubble**
+Everything else is on my [portfolio](https://samarth-pfolio.vercel.app/).
 
-- 📫 How to reach me **samarthganorkar@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="100%" alt="My stack. Training models: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, pandas, Jupyter. LLM apps and agents: LangChain, LangGraph, LlamaIndex, Ollama, RAG, vector databases, MCP. Shipping software: JavaScript, Node.js, React, Tailwind, Java, C, PHP, MongoDB, MySQL. Security: Linux, Kali, Bash, Git, Docker, Arduino.">
+</picture>
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGZhHc9soE/gqIUEd2JN27x0hGJpRQvLw/view?utm_content=DAGZhHc9soE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cadbd5806](https://www.canva.com/design/DAGZhHc9soE/gqIUEd2JN27x0hGJpRQvLw/view?utm_content=DAGZhHc9soE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cadbd5806)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/samarthganorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarthganorkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samarth-ganorkar-5549a8203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samarth-ganorkar-5549a8203/" height="30" width="40" /></a>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whileTrueFalse&show_icons=true&include_all_commits=true&count_private=true&bg_color=131A2C&title_color=E8EBF3&text_color=A5AEC4&icon_color=7D93FF&border_color=25304A&border_radius=16">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=whileTrueFalse&show_icons=true&include_all_commits=true&count_private=true&bg_color=F1F3F6&title_color=18213A&text_color=56607A&icon_color=2747F5&border_color=DDE2EA&border_radius=16" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whileTrueFalse&layout=compact&langs_count=6&bg_color=131A2C&title_color=E8EBF3&text_color=A5AEC4&border_color=25304A&border_radius=16">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whileTrueFalse&layout=compact&langs_count=6&bg_color=F1F3F6&title_color=18213A&text_color=56607A&border_color=DDE2EA&border_radius=16" alt="Most used languages">
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Get in touch
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whiletruefalse&show_icons=true&locale=en&layout=compact" alt="whiletruefalse" /></p>
-
-
+The quickest way to reach me is [email](mailto:samarthganorkar@gmail.com). I'm also on [LinkedIn](https://www.linkedin.com/in/samarth-ganorkar-5549a8203/) and [X](https://twitter.com/samarthganorkar), and my work history is [here](https://www.canva.com/design/DAGZhHc9soE/gqIUEd2JN27x0hGJpRQvLw/view).
